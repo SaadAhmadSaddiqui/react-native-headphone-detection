@@ -23,9 +23,9 @@
     "bluetooth"
   ],
   "peerDependencies": {
-    "react-native": "^0.67.4"
+    "react-native": "^0.75.3"
   },
   "devDependencies": {
-    "react-native": "^0.67.4"
+    "react-native": "^0.75.3"
   }
 }
